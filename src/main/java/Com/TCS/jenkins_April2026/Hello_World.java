@@ -6,5 +6,12 @@ public class Hello_World {
 		System.out.println("Hello World");
 
 	}
+	// From b1 Branch
+	
+	public void m1() {
+		System.out.println("From method -1 ");
+	}
+	
+	
 
 }
